@@ -1,0 +1,2 @@
+rootProject.name = "NationalParkLocations"
+include ':app'

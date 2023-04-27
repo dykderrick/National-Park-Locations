@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NationalParkLocations</string>
+    <string name="title_activity_maps">National Parks Map with Marker</string>
+</resources>
